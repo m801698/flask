@@ -1,0 +1,20 @@
+Beste {name_from},
+
+
+Je bestelling van een Valentijnskaart!
+
+
+Bestelnummer: {order_id}
+Is verwijderd
+
+Reden van verwijdering:
+{reden} (aanvraag/ongepast/incrimineerend)
+
+Met vriendelijke groet,
+Kries Prahladsingh.
+
+
+Dit is een Automatische Email.
+
+
+Beste {name_from},\n\nJe bestelling van een Valentijnskaart!\n\nBestelnummer: {order_id}\nIs verwijderd\n{reden}\nMet vriendelijke groet,\nKries Prahladsingh.\n\nDit is een Automatische Email."
